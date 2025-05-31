@@ -1,1 +1,1 @@
-# sui-move-build-java
+# sui-move-build-kotlin
