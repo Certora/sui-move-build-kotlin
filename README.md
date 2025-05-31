@@ -1,5 +1,7 @@
 # sui-move-build-kotlin
 
+[![](https://jitpack.io/v/certora/sui-move-build-kotlin.svg)](https://jitpack.io/#certora/sui-move-build-kotlin)
+
 Makes move-build from the Sui project available to Kotlin code, as a Chicory AOT module.
 
 We are using a WebAssembly build of move-build from the Sui project, to avoid having to deal with multiple
